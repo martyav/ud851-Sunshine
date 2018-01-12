@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         String[] weatherData = new String[10];
 
         for (String weatherDatum : weatherData) {
-            mWeatherDispalyw.append(weatherDatum);
+            mWeatherDispalyw.append(weatherDatum + "\n");
         }
     }
 }
