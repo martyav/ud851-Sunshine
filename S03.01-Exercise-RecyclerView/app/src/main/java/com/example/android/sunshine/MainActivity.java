@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
     // TODO (17) COMPLETED Extend RecyclerView.ViewHolder
 
     // Within ForecastAdapterViewHolder ///////////////////////////////////////////////////////////
-    // TODO (18) Create a public final TextView variable called mWeatherTextView
+    // TODO (18) COMPLETED Create a public final TextView variable called mWeatherTextView
 
     // TODO (19) COMPLETED Create a constructor for this class that accepts a View as a parameter
     // TODO (20) COMPLETED Call super(view) within the constructor for ForecastAdapterViewHolder
@@ -80,8 +80,8 @@ public class MainActivity extends AppCompatActivity {
     // TODO (29) COMPLETED Override getItemCount
     // TODO (30) COMPLETED Return 0 if mWeatherData is null, or the size of mWeatherData if it is not null
 
-    // TODO (31) Create a setWeatherData method that saves the weatherData to mWeatherData
-    // TODO (32) After you save mWeatherData, call notifyDataSetChanged
+    // TODO (31) COMPLETED Create a setWeatherData method that saves the weatherData to mWeatherData
+    // TODO (32) COMPLETED After you save mWeatherData, call notifyDataSetChanged
     // Within ForecastAdapter.java /////////////////////////////////////////////////////////////////
 
 
